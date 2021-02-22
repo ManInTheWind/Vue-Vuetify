@@ -1,10 +1,7 @@
 # newkangkang
 
 ## Overview
-![image](img_readme/1.png)
-![image](img_readme/2.png)
-![image](img_readme/3.png)
-![image](img_readme/4.png)
+![image](img_readme/overview.png)
 
 ## Project setup
 ```
