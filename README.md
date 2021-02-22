@@ -1,5 +1,11 @@
 # newkangkang
 
+## Overview
+![image](img_readme/1.png)
+![image](img_readme/2.png)
+![image](img_readme/3.png)
+![image](img_readme/4.png)
+
 ## Project setup
 ```
 npm install
